@@ -14,7 +14,7 @@ class Home {
     }
 
     public void info() {
-        Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
+        Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");    
         Console.WriteLine("-=-=-=-=-=-=-=-  WELCOME AT HOME  -=-=-=-=-=-=-=-");
         Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
     }
