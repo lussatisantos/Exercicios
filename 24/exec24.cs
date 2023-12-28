@@ -10,10 +10,16 @@ class Agua {
         gasoso = false;
         liquido = true;
     }
+
+    public bool getLiquido() {
+        return liquido;
+    }
 }
 
 class Exercicio24 {
     static void Main() {
         Agua agua = new Agua();
+
+        Console.WriteLine(agua.getLiquido());
     }
 }
